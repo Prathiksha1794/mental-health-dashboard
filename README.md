@@ -1,2 +1,6 @@
-# mental-health-dashboard
-This repository presents an MSc Data Science research project using NLP and machine learning to classify Reddit mental health posts into six DSM-5 categories, addressing class imbalance, interpretability, and ethical data handling through a reproducible, privacy-aware pipeline.
+# MSc Data Science Dissertation
+This repository contains the code, methodology, and documentation for my MSc Data Science dissertation.
+
+## Data Access
+Due to size constraints, raw datasets are not included in this GitHub repository.
+The full dataset used in this project is available here: https://drive.google.com/drive/folders/1TwZesJwEo66zULYdt0VRf0M1fMw37_97
